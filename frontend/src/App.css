@@ -1,0 +1,7 @@
+.app { font-family: 'Roboto', sans-serif; }
+.header { background: linear-gradient(45deg, #1976d2 30%, #42a5f5 90%); color: white; padding: 1rem; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.dashboard { padding: 2rem; max-width: 1200px; margin: 0 auto; }
+.filter { margin-bottom: 1rem; }
+.map-container { height: 400px; margin: 1rem 0; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+.chart-container { margin: 1rem 0; }
+.slider-container { margin: 1rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; }
